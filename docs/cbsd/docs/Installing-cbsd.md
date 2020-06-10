@@ -1,5 +1,6 @@
 # Installing CBSD
 
+
 This guide assumes that you are installing CBSD on a freshly installed FreeBSD system as a number of configuration files [can be changed during install](https://www.bsdstore.ru/en/custom_freecbsd.html).
 
 
